@@ -20,6 +20,8 @@ class Car extends Truck {
     System.out.println("Model name" + myFastCar.brand);
     System.out.println("Model name" + myFastCar.modelName);
      System.out.println("Model name" + myFastCar.modelName1);
+    System.out.println("Model name" + myFastCar.modelName);
+     System.out.println("Model name" + myFastCar.modelName1);
   }
 
 }
