@@ -10,7 +10,8 @@ public class PrimeExample{
     if(n%i==0){    
      System.out.println(n+" is not prime number");    
      flag=1;    
-     break;    
+     break; 
+     break;
     }    
    }    
    if(flag==0)  { System.out.println(n+" is prime number"); }
